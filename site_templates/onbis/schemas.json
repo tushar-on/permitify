@@ -13,7 +13,7 @@
             "city",
             "province",
             "postal_code",
-            "country",
+             "country",
             "effective_date",
             "end_date"
         ]
